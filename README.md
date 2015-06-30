@@ -7,4 +7,4 @@ This is a Webversion of Google and Bing Translate This will Unite It and Make Al
 
 You can get this app BlackBery World 
 
-See my website to get more Detailed shaishad.wordpress.com
+See my website to get more Detailed http://shaishad.wordpress.com
