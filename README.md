@@ -1,10 +1,4 @@
-# All-Translate
-All Translate
-
-
-A App that can Translate anything Upto 100+ Languages,
-This is a Webversion of Google and Bing Translate This will Unite It and Make All translate
-
-You can get this app BlackBery World 
-
-See my website to get more Detailed http://shaishad.wordpress.com
+<<<<<<< HEAD
+# Clouder
+The App that organize Cloud File from Dropbox and JustCloud "BlackBerry 10 &lt;BB10>"
+>>>>>>> 399e15da8c1a11bea5e4e2c7d25caedd08359c8a
